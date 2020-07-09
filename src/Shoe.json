@@ -1,0 +1,57 @@
+{
+" Photo of Sneakers": {
+    "name": "Photo of Sneakers",
+ "price": "$50",
+ "image":
+ "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?cs=srgb&dl=photo-of-sneakers-on-white-background-2529148.jpg&fm=jpg"
+},
+
+    "The best running shoes 2020 | Nike, New Balance, Adidas, Brooks ...": {
+        "name" : "The best running shoes 2020 | Nike, New Balance, Adidas, Brooks ...",
+        "price": "$40",
+        "image":"https://www.getsweatgo.com/media/images/2020/02/dsc08794-1581349110-a9UP-column-width-inline.jpg"
+    },
+   "White and Red Nike Shoes": {
+       "name": "White and Red Nike Shoes",
+       "price":"$30",
+       "image":"https://images.pexels.com/photos/4277508/pexels-photo-4277508.jpeg?cs=srgb&dl=white-and-red-nike-shoes-4277508.jpg&fm=jpg"
+   },
+   "Best Asics Running Shoes 2020": {
+    "name" : "Best Asics Running Shoes 2020",
+    "price": "$15",
+    "image":"https://therunningadvisor.com/wp-content/uploads/2019/08/Best-asics-running-shoes.png"
+},
+"ASICS Men's Gel-Cumulus 20 Running Shoes": {
+    "name" : "ASICS Men's Gel-Cumulus 20 Running Shoes",
+    "price": "$20",
+    "image":"https://www.cricketdirect.co.uk/blog/wp-content/uploads/2015/04/Asics-Cricket-Shoes-2015-752x490.jpg"
+},
+"Aldo sneakers, available on Amazon.": {
+    "name" : "Aldo sneakers, available on Amazon.",
+    "price": "$30",
+    "image":"https://pmcfootwearnews.files.wordpress.com/2019/07/aldo.jpg"
+},
+"Brooks Levitate 2":
+{
+    "name": "Brooks Levitate 2",
+    "price": "$69",
+    "image": "https://blueprint-api-production.s3.amazonaws.com/uploads/card/image/1239768/a9da5ecf-90fe-4a3e-ac1f-dc7b71366ca0.png"
+    },
+    "CALLING all bargain hunters":
+    {
+        "name": "CALLING all bargain hunters",
+        "price": "$60",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2020/06/dk-comp-amazon-shoes.jpg"
+        },
+        "Gear Review: More Tester Picks Shoes": {
+            "name": "Gear Review: More Tester Picks Shoes",
+        "price": "$100",
+        "image": "https://www.backpacker.com/.image/c_limit%2Ccs_srgb%2Ch_700%2Cq_auto:good%2Cw_445/MTQ0OTE0MTgwODQ0ODg5ODI5/adidastrx-fast-445x260-78759.webp"
+        }, 
+        "Mens Cloudfoam Super Racer Running Shoe": {
+            "name": "Mens Cloudfoam Super Racer Running Shoe",
+            "price": "$90",
+            "image": "https://i.pinimg.com/originals/c2/bb/9a/c2bb9abe1407cf865dcaede98d36bef7.jpg"
+
+        }
+}

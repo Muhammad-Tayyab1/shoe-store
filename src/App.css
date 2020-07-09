@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+}
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.Container> .link{
+  box-shadow: 0 0 10px rgb(162, 167, 240);
+  width: 300px;
+  align-items: center;
+  text-align: center;
+  padding: 0 auto;
+  margin: 10px;
+}
+.Container > .link:hover{
+background-color: lightcyan;
+}
+.NavBarStyle{
+  box-shadow: 0 0 10px rgb(199, 155, 235);
+  display: flex;
+   justify-content: space-evenly;
+  max-width: 100%;
+  margin: 0 auto;
+
+  padding: 15px 0;
+}
+.heading{
+  color: deeppink;
+}
+    .Nav{
+color: rgba(184, 7, 119,0.9);
+justify-content: space-between -em;
+}
+.Nav:hover{
+  background-color: rgb(94, 196, 243) ;
+color: pink;
+}
+.git{
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 0 auto;
+  padding: 10px;
+  color: rgb(118, 196, 16);
+}
+.headings{
+  
+  color: rgb(238, 20, 20);
+}
+.boxsh{
+  box-shadow: 0 0 10px rgb(226, 104, 130);
+}
