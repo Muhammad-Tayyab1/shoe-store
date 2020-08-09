@@ -17,12 +17,13 @@ body{
 .Container > .link:hover{
 background-color: lightcyan;
 }
-.NavBarStyle{
+.NavBar{
   box-shadow: 0 0 10px rgb(199, 155, 235);
   display: flex;
    justify-content: space-evenly;
   max-width: 100%;
   margin: 0 auto;
+  background: linear-gradient(to right top, #e544a0, #d052b4, #b75fc3, #9a6acd, #7b73d1, #5e7fd8, #3b89d9, #0091d7, #009fd5, #00acce, #06b7c4, #4ac0b9);
 
   padding: 15px 0;
 }
@@ -35,14 +36,6 @@ justify-content: space-between -em;
 }
 .Nav:hover{
   background-color: rgb(94, 196, 243) ;
-color: pink;
-}
-.git{
-  display: flex;
-  justify-content: flex-end;
-  margin-left: 0 auto;
-  padding: 10px;
-  color: rgb(118, 196, 16);
 }
 .headings{
   
@@ -50,4 +43,18 @@ color: pink;
 }
 .boxsh{
   box-shadow: 0 0 10px rgb(226, 104, 130);
+}
+.Head{
+  margin-top: 0 auto;
+
+text-align: start;
+color: cyan;
+}
+.Header{
+  
+  margin-top: 0 auto;
+}
+.Nav{
+  margin-left: 40px;
+  color: aliceblue;
 }

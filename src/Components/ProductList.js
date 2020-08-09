@@ -11,8 +11,7 @@ import NavBar from './NavBar';
 console.log(id);
     return (
         <div>
-            <h1 className="heading">WellCome to ProductList</h1><hr/>
-            <NavBar/>
+            <NavBar className="NavBar"/>
             <div className="link">
                     <h2>{Shoe.name}</h2>
                     <img src={Shoe.image} height={350} alt="Images"/>

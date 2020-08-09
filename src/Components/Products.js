@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom';
     
     return (
         <div>
-        <h1 className="heading">WellCome to Products</h1>
         <NavBar/>
         <div className="Container">
         {Object.keys(shoe).map(keyName =>{
