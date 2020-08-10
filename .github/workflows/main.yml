@@ -38,4 +38,4 @@ jobs:
     - name: install surge
       run: npm install --g surge
     - name: Deploy to surge
-      run: surge ./build Shoepoint.surge.sh --token{{secrets.SURGE_TOKEN}}
+      run: surge ./build store_shoe.surge.sh --token{{secrets.SURGE_TOKEN}}
