@@ -8,6 +8,7 @@ import { Link } from 'react-router-dom';
         <div>
         <NavBar/>
         <div className="Container">
+            
         {Object.keys(shoe).map(keyName =>{
             const shoes= shoe[keyName];
             return(

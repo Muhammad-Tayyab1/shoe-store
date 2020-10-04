@@ -4,6 +4,7 @@ import Home from './Components/Home';
 import Products from './Components/Products';
 import ProductList from './Components/ProductList';
 import About from './Components/About';
+
 function RouteConfig() {
   return (
     <div>
@@ -14,6 +15,7 @@ function RouteConfig() {
         <Route path="/about" element={<About/>} />
         <Route path="/Products" element={<Products/>} />
         <Route path="/Products/:id" element={<ProductList/>} />
+       
         <Route path="*" element={<Error/>}/>
         
      </Routes>

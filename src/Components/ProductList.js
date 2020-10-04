@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import shoe from "./../Shoe.json";
 import NavBar from './NavBar';
  const ProductList = () => {
@@ -12,6 +12,7 @@ console.log(id);
     return (
         <div>
             <NavBar className="NavBar"/>
+            <Link to='/Products'className="backlink">Back to home</Link>
             <div className="link">
                     <h2>{Shoe.name}</h2>
                     <img src={Shoe.image} height={350} alt="Images"/>

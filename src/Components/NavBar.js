@@ -31,6 +31,7 @@ export default function NavBar() {
           <Typography className="Header">
           <Link to='/' className="Nav" > Home </Link>  
            <Link to='/Products'   className="Nav" >products </Link>
+           
           <Link to='/about'  className="Nav" > About-us</Link>
           
           </Typography>

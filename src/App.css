@@ -35,7 +35,7 @@ color: rgba(184, 7, 119,0.9);
 justify-content: space-between -em;
 }
 .Nav:hover{
-  background-color: rgb(94, 196, 243) ;
+  background-color: goldenrod;
 }
 .headings{
   
@@ -56,5 +56,13 @@ color: cyan;
 }
 .Nav{
   margin-left: 40px;
-  color: aliceblue;
+  color: rgb(255, 250, 240);
+  text-decoration: none;
+}
+.backlink{
+ text-align: start;
+  text-decoration: none;
+}
+.backlink:hover{
+  color: red;
 }
